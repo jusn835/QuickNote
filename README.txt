@@ -1,7 +1,7 @@
 # QuickNote by Justin R.
 #
-# Formatted notes with
-# any text editor.
+# Formatted note taking
+# with any text editor.
 #
 # License: GPLv3
 #
