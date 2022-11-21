@@ -1,0 +1,23 @@
+# QuickNote by Justin R.
+#
+# Formatted notes with
+# any text editor.
+#
+# License: GPLv3
+#
+#
+# Installation (Linux, MacOS):
+#
+#   1) Run COMPILE.sh to generate executable
+#   2) Run INSTALL.sh to add executable to PATH
+#
+#   ** Has not been tested on MacOS but it should
+#      work in theory.
+#
+#   ** Does not work on WSL yet.
+#
+# Installation (Windows):
+#
+#   Not supported. (yet)
+#
+#
