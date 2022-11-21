@@ -21,3 +21,5 @@
 #   Not supported. (yet)
 #
 #
+# Type 'qn help' to configure app settings.
+#
