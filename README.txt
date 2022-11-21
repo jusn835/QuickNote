@@ -9,7 +9,8 @@
 # Installation (Linux, MacOS):
 #
 #   1) Run COMPILE.sh to generate executable
-#   2) Run INSTALL.sh to add executable to PATH
+#   2) Run INSTALL.sh as root to add executable
+#      to PATH
 #
 #   ** Has not been tested on MacOS but it should
 #      work in theory.
