@@ -22,5 +22,12 @@
 #   Not supported. (yet)
 #
 #
+# Usage:
+#
+#   qn file.txt
+#
 # Type 'qn help' to configure app settings.
+#
+#
+# Bug Reports/Feedback: jusn835@protonmail.com
 #
