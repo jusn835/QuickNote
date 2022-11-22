@@ -1,4 +1,4 @@
-# QuickNote by Justin R.
+# QuickNote by Justin Roach
 #
 # Formatted note taking
 # with any text editor.
